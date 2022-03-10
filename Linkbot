@@ -1,0 +1,14 @@
+
+CLinkbotI robot;
+
+robot.setJointSpeeds(170,NaN,150);
+robot.driveTime(4);
+
+robot.setJointSpeeds(120,NaN,200);
+robot.driveTime(3.5);
+
+robot.setJointSpeeds(170,NaN,150);
+robot.driveTime(4);
+
+robot.setJointSpeeds(120,NaN,200);
+robot.driveTime(3.6);
